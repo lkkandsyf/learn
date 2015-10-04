@@ -19,6 +19,7 @@ main(int argc,char *argv[])
 	printf("hello world");
 	printf("hello world");
 	printf("the third time\n");
+	printf("in local dir \n");
 	return 0;
 }
 
